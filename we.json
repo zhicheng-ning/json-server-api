@@ -1,0 +1,21 @@
+{
+  "nzc": [
+              {
+                 "id": 1, 
+                "name": "zhicheng", 
+                "sex": "male" ,
+               "age":20
+              }
+          ],
+ "mss": [
+              { 
+                "id": 2, 
+                "name": "shuangshuang",
+                 "sex": "female",
+                "age":20
+              } 
+            ], 
+   "nzy":  { 
+                  "name": "zhiyuan" 
+          }
+}
